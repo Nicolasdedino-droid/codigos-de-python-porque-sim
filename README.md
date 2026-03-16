@@ -1,11 +1,29 @@
-Olá! Esse repositório foi feito por um adolescente.
-Então aqui por enquanto não vai ter tanta coisa séria...
-Mas já adianto algo: Meus códigos são legais! ;)
-E se tiver perguntando...Como eu fiz tudo isso?
-No celular, usando um app chamado "Pydroid3"
-Mas...Se você quiser ver os códigos em outro dispositivo?
-IDK...Heheh!
-Eu não pensei os códigos para computador, então se tiver algum problema com file ou path...
-O culpado está aqui!!
+Olá! esse é o meu primeiro repositório de verdade no Github.
 
-Spoiler: Meus melhores códigos ficam numa pasta chamada "Garibaldino the game"
+desde que eu nasci, eu gostava de tecnologia e via bastante vídeos sobre,
+já que era um conteúdo viciante e legal...mal sabia eu que
+eu iria me basear nisso para me desenvolver pessoalmente, onde
+é com a tecnologia que eu irei trabalhar! :D
+
+Esse repositório pode até mesmo ser mal feito...
+mas mesmo assim eu vou falar como eu fiz isso:
+
+Primeiro: Todos os programas eu utilizo Pydroid3
+
+sou 100% mobile e estou aprendendo a programar em Python.
+
+Não é atoa que há programas mais simples e outros mais complexos.
+Mas o que importa é: Sla como abrir meus programas no computador.
+Boa sorte, mas eu recomendo uma coisa: Entra na pasta do GARIBALDINO e jogue os "jogos"
+
+1° Programa da série: Brincando com packages.py
+
+2° Programa da série: Brincando com módulos-A DLC.py
+
+3° Programa da série: Cowsay- O PREQUEL.PY
+
+(ATENÇÃO)
+
+Se você estiver no computador e rodar alguns códigos específicos, você pode se deparar com erros (principalmente de path ou file), por causa que todos os meus códigos foram feitos só para você ver e avaliar e também não pensei tanto para as pessoas do Pc, é apenas eu me divertindo mesmo. :>
+
+Último programa da série: Garibaldino- O final definitivo.py
