@@ -22,6 +22,8 @@ Boa sorte, mas eu recomendo uma coisa: Entra na pasta do GARIBALDINO e jogue os 
 
 3° Programa da série: Cowsay- O PREQUEL.PY
 
+4° Programa da série: Cowsay - O final.py
+
 (ATENÇÃO)
 
 Se você estiver no computador e rodar alguns códigos específicos, você pode se deparar com erros (principalmente de path ou file), por causa que todos os meus códigos foram feitos só para você ver e avaliar e também não pensei tanto para as pessoas do Pc, é apenas eu me divertindo mesmo. :>
