@@ -1,0 +1,12 @@
+
+condicionais: if else, elif, True, False, (excessões: try, except)
+
+loopings: for, while, continue, break, pass, in
+
+funções: def, return
+
+módulos: import, from, as
+
+diversos: global, assert e with
+
+!ATENÇÃO: Essas Keywords podem ser usadas em diferentes contextos, como o "True" ou "False", onde eles não só dependem do if e else.
