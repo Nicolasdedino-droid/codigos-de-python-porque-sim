@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 import math
 
-=======
->>>>>>> efbe72351df174113664310a7a3be138f64f63ea
 azule = '\033[96m'
 
 texto1 ='''Hatsune Miku: Olá! Eu sou a Hatsune Miku, uma idólo digital! Se quiser saber mais sobre, digita "ajuda()"
@@ -48,12 +45,7 @@ texto2 = "Oie!! Estou pronta para receber alguma instrução! :3"
 
 texto3 = "Matemática?! estou pronta para responder algumas perguntas matemáticas..."
 
-<<<<<<< HEAD
 despedida = """Olha...eu tenho mais coisas para fazer na vida! >:("""
-=======
-despedida = """Olha...eu tenho mais coisas para fazer na vida! >:(
-Tchau."""
->>>>>>> efbe72351df174113664310a7a3be138f64f63ea
 
 #---
 #PROIBIDO MEXER NESTA ÁREA!
@@ -83,15 +75,11 @@ def ajuda():
 #---~Separando funções outra vez~---
     
 def call():
-<<<<<<< HEAD
     lista = []
-=======
->>>>>>> efbe72351df174113664310a7a3be138f64f63ea
     #Apresentação dela
     print(azule,texto2)
     
     while True:
-<<<<<<< HEAD
         
         inst = str(input("Digite algum comando: ")).lower() # Aqui é algum comando que a Miku pode responder...
         
@@ -129,14 +117,6 @@ def call():
     
         
         else: #Faz "parceria" com o if da linha 87
-=======
-        inst = str(input("Digite algum comando: ")).lower()
-        
-        if inst == "math":
-            print(azule,texto3)
-            break
-        else:
->>>>>>> efbe72351df174113664310a7a3be138f64f63ea
             print(azule, despedida)
             break
             
